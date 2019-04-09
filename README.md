@@ -32,6 +32,9 @@ Depois bastam abrir o browser em: **localhost:8000**
 
 Caso desejam visualizar a demo em produção, com a integração com Azure & CosmosDb, bastam acessar o link **[AQUI](https://teste-todo-workshop.azurewebsites.net/)**.
 
+## Quero aprender o Passo a Passo! Como faço?!
+
+Simples! Basta acessar o acervo criado em **[AQUI](/passo-a-passo/02-hospedagem-webapp-azure.md)** para acompanhar todos os scripts criados e aprender a migrar sua base local para o CosmosDb e como hospedar a sua aplicação no Azure!
 
 ## Dúvidas?! ❓
 
