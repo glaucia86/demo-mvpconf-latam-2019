@@ -1,4 +1,4 @@
-# Laboratório 2 - TODO-LIST MEAN (Mongo, Express, Angular & Node.js)
+# Demo: MVP Conf 2019 - Palestra: Desenvolvendo Aplicações Node.js com Azure - A Nuvem que Escala!
 
 [![bit-octocat.png](https://i.postimg.cc/LX6SNKBH/bit-octocat.png)](https://postimg.cc/kVZLgHpZ)
 
